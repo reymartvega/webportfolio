@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: "Source Sans Pro", roboto;
+	color: #F9FCF1;
+	background-color: #505A5B;
+}
+.home{
+	background-image: url('./images/homebg.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 15% 0;
+}
+
+h1{
+	font-size: 60px !important;
+}
+h2{
+	font-size: 50px;
+}
+#home-header-intro{
+	font-size: 20px !important;
+	padding: 3rem 0;
+}
+#projects-button{
+	display: inline-block;
+	text-decoration: none; 
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: #F9FCF1;
+	border: none;
+	border-radius: 15px;
+	padding: 1rem 5rem;
+	background-color: #1E96FC;
+}
+.knowing-me{
+	background-color: #F9FCF1;
+	color: #111;
+	font-size: 15px;
+	border-radius: 20px;
+}
