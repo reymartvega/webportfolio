@@ -37,9 +37,51 @@ h2{
 	padding: 1rem 5rem;
 	background-color: #1E96FC;
 }
+#about-me{
+	padding-bottom: 1%;
+}
 .knowing-me{
-	background-color: #F9FCF1;
-	color: #111;
+	color: #F9FCF1;
 	font-size: 15px;
-	border-radius: 20px;
+	text-align: justify;
+}
+#contact-button{
+	display: inline-block;
+	text-decoration: none; 
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: #F9FCF1;
+	border: none;
+	border-radius: 15px;
+	padding: 1rem 5rem;
+	background-color: #1E96FC;
+}
+#projects{
+	padding: 7% 0;
+	background-color:#F9FCF1;
+	color:#505A5B;
+}
+#submit-button{
+	display: inline-block;
+	text-decoration: none; 
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: #F9FCF1;
+	border: none;
+	border-radius: 15px;
+	padding: 1rem 3rem;
+	background-color: #1E96FC;
+	margin-top: 2%;
+}
+#gmap_canvas {
+	background:none!important;
+	height:70vh;
+	width:80%;
+}
+.socials-logo{
+	text-decoration: none;
+}
+.trademark{
+	text-decoration: none;
+	color: #F9FCF1;
 }
